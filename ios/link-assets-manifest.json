@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/segoe-bold.ttf",
+      "sha1": "aeb5b83b35454c1f257b8a57e9dc10e8c20162b9"
+    },
+    {
+      "path": "src/assets/fonts/segoe-regular.ttf",
+      "sha1": "6bea1e76ac91b53ab21a7c199b8484cc392caf1e"
+    }
+  ]
+}

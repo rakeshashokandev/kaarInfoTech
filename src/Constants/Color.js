@@ -1,0 +1,16 @@
+export const color = {
+    white: '#fff',
+    black:'#000',
+    bottomTabBlue:'#1E90FF',
+    backgroundWhite:'#f7f1f1ff',
+    gray42:'#6b6b6b',
+    blue:'#0067B8',
+    yellow:'#f2c744',
+    borderColor:'#ccc',
+    background1:'#e6e6e6',
+    background2:'#f9f9f9',
+    background3:'#FFEBB5',
+    background4:'#0b0f20',
+    background5:'#1f1f3f',
+    background6:'#3f2d24',
+}
